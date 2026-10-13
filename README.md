@@ -1,75 +1,74 @@
-<!-- Profile README for github.com/yagnadaryani -->
-
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0F172A,50:312E81,100:0891B2&amp;height=210&amp;section=header&amp;text=Yagna%20Daryani&amp;fontSize=54&amp;fontColor=FFFFFF&amp;fontAlignY=38&amp;desc=AI%20%26%20DATA%20SCIENCE%20%C2%B7%20INTERACTIVE%20WEB%20%C2%B7%20DESIGN&amp;descSize=13&amp;descAlignY=58" width="100%" alt="Yagna Daryani — AI and Data Science, Interactive Web, Design" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:312E81,100:0891B2&height=210&section=header&text=Yagna%20Daryani&fontSize=54&fontColor=FFFFFF&fontAlignY=38&desc=ARTIFICIAL%20INTELLIGENCE%20%C2%B7%20DATA%20SCIENCE%20%C2%B7%20WEB&descSize=13&descAlignY=58" width="100%" alt="Yagna Daryani — Artificial Intelligence, Data Science and Web" />
 </p>
 
-<h3 align="center">Building thoughtful digital experiences with AI, data, and the web.</h3>
+<h3 align="center">Building intelligent ideas into interactive experiences.</h3>
 
 <p align="center">
-  <strong>AI &amp; Data Science Undergraduate</strong><br />
+  AI &amp; Data Science Undergraduate<br />
   <samp>Curious about intelligence. Intentional about design.</samp>
 </p>
 
 <p align="center">
   <a href="#about">About</a> &nbsp; / &nbsp;
   <a href="#tech-stack">Tech Stack</a> &nbsp; / &nbsp;
-  <a href="#featured-projects">Projects</a> &nbsp; / &nbsp;
+  <a href="#featured-repositories">Projects</a> &nbsp; / &nbsp;
+  <a href="#connect-with-me">Connect</a> &nbsp; / &nbsp;
   <a href="https://github.com/yagnadaryani?tab=repositories">All Repositories ↗</a>
 </p>
 
 <br />
 
+<a name="about"></a>
+
 ## About
 
-I'm Yagna, an **AI & Data Science undergraduate** interested in building at the intersection of intelligent systems and intuitive web experiences.
+I explore the intersection of **artificial intelligence, data, and thoughtful web experiences**. My projects range from personalized engineering education to interactive Earth visualization and community-focused applications.
 
-I enjoy turning complex ideas into practical, interactive applications—from **AI-assisted engineering education** and **3D environmental visualization** to technology that addresses real community needs.
+I enjoy turning complex ideas into interfaces people can explore, understand, and use.
 
-My approach combines **technical problem-solving, experimentation, and thoughtful interface design**. I care not only about what a product can do, but also how naturally people can understand and use it.
+> **Current focus:** AI-assisted learning · Interactive simulations · Modern web development
 
-**Currently exploring:** Generative AI applications · Interactive visualizations · Full-stack development
-
-<br />
+<a name="tech-stack"></a>
 
 ## Tech Stack
 
-<p align="center"><samp>TOOLS I USE TO BRING IDEAS TO LIFE</samp></p>
+<p align="center"><samp>THE TOOLS BEHIND THE IDEAS</samp></p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=ts,js,react,tailwind,html,css&amp;theme=dark&amp;perline=6" alt="TypeScript, JavaScript, React, Tailwind CSS, HTML, CSS" />
+  <img src="https://skillicons.dev/icons?i=ts,js,html,css,react,tailwind&theme=dark&perline=6" alt="TypeScript, JavaScript, HTML, CSS, React and Tailwind CSS" />
 </p>
-<p align="center"><sub>FRONTEND &amp; INTERFACES</sub></p>
+<p align="center"><sub>TypeScript &nbsp; · &nbsp; JavaScript &nbsp; · &nbsp; HTML &nbsp; · &nbsp; CSS &nbsp; · &nbsp; React &nbsp; · &nbsp; Tailwind CSS</sub></p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,supabase,threejs,vite,git&amp;theme=dark&amp;perline=6" alt="Node.js, Express, Supabase, Three.js, Vite, Git" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,supabase,threejs,vite,git&theme=dark&perline=6" alt="Node.js, Express, Supabase, Three.js, Vite and Git" />
 </p>
-<p align="center"><sub>BACKEND, 3D &amp; DEVELOPMENT TOOLS</sub></p>
+<p align="center"><sub>Node.js &nbsp; · &nbsp; Express &nbsp; · &nbsp; Supabase &nbsp; · &nbsp; Three.js &nbsp; · &nbsp; Vite &nbsp; · &nbsp; Git</sub></p>
 
-<p align="center">
-  <strong>Also working with:</strong> Gemini API · React Three Fiber · Motion · Recharts · TanStack Start
-</p>
+<p align="center"><strong>Also working with:</strong> Gemini API · React Three Fiber · Motion · Recharts · TanStack Start</p>
 
 <br />
 
-## Featured Projects
+<a name="featured-repositories"></a>
 
-A selection of projects exploring learning, visualization, community impact, and interface design.
+## Featured Repositories
+
+Four projects. Four different ways to turn an idea into an experience.
 
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3>01 &nbsp; / &nbsp; BRIDGE</h3>
-      <p><strong>Making engineering education more adaptive.</strong></p>
-      <p>An AI-assisted learning platform exploring personalized study support, material-aware guidance, and interactive engineering labs.</p>
+      <h3>01 &nbsp; / &nbsp; 🧠 BRIDGE</h3>
+      <p><strong>Engineering education, made personal.</strong></p>
+      <p>An AI-powered learning platform exploring adaptive guidance, study-material RAG, interactive engineering labs, and learning analytics.</p>
       <p><code>React</code> <code>TypeScript</code> <code>Gemini</code> <code>Express</code></p>
       <a href="https://github.com/yagnadaryani/BRIDGE"><strong>Explore BRIDGE ↗</strong></a>
       <br /><br />
     </td>
     <td width="50%" valign="top">
-      <h3>02 &nbsp; / &nbsp; PlanetAI</h3>
-      <p><strong>Exploring Earth through interactive data.</strong></p>
-      <p>A 3D Earth experience combining environmental data layers, climate and disaster simulations, AI-assisted exploration, and visual analytics.</p>
+      <h3>02 &nbsp; / &nbsp; 🌍 PlanetAI</h3>
+      <p><strong>A new perspective on our planet.</strong></p>
+      <p>An interactive 3D Earth experience with environmental data layers, climate and disaster simulations, an AI assistant, and visual analytics.</p>
       <p><code>React</code> <code>TypeScript</code> <code>Three.js</code> <code>Recharts</code></p>
       <a href="https://github.com/yagnadaryani/PlanetAI"><strong>Explore PlanetAI ↗</strong></a>
       <br /><br />
@@ -77,17 +76,19 @@ A selection of projects exploring learning, visualization, community impact, and
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3>03 &nbsp; / &nbsp; KumbhSaathi</h3>
-      <p><strong>Technology built around a community need.</strong></p>
-      <p>A missing-person assistance application for large gatherings, focused on a practical use case and an accessible web experience.</p>
+      <h3>03 &nbsp; / &nbsp; 🪷 KumbhSaathi</h3>
+      <p><strong>Technology with a community purpose.</strong></p>
+      <p>A missing-person finder project for Kumbh, bringing a community-focused use case into a modern web application.</p>
       <p><code>React</code> <code>JavaScript</code> <code>Leaflet</code> <code>Vite</code></p>
-      <a href="https://github.com/yagnadaryani/KumbhSaathi"><strong>Explore KumbhSaathi ↗</strong></a>
+      <a href="https://kumbhsaathi.urjaacreatives.com/"><strong>Try the live demo ↗</strong></a>
+      &nbsp; · &nbsp;
+      <a href="https://github.com/yagnadaryani/KumbhSaathi">View source ↗</a>
       <br /><br />
     </td>
     <td width="50%" valign="top">
-      <h3>04 &nbsp; / &nbsp; Techfest</h3>
-      <p><strong>Editorial design meets modern frontend development.</strong></p>
-      <p>An independently built landing-page concept inspired by IIT Bombay Techfest's 30th edition, featuring the festival's events and experiences.</p>
+      <h3>04 &nbsp; / &nbsp; ✨ Techfest</h3>
+      <p><strong>Science meets expressive web design.</strong></p>
+      <p>A landing-page project for Techfest IIT Bombay's 30th edition, presenting competitions, workshops, lectures, and the festival experience.</p>
       <p><code>React</code> <code>TypeScript</code> <code>TanStack Start</code> <code>Tailwind CSS</code></p>
       <a href="https://github.com/yagnadaryani/Techfest"><strong>Explore Techfest ↗</strong></a>
       <br /><br />
@@ -98,6 +99,22 @@ A selection of projects exploring learning, visualization, community impact, and
 <p align="center">
   <a href="https://github.com/yagnadaryani?tab=repositories"><strong>View all repositories →</strong></a>
 </p>
+
+---
+
+<a name="connect-with-me"></a>
+
+## Connect with me
+
+Have an idea to build, a project to collaborate on, or something interesting to share? Let's connect.
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/yagna-daryani"><img src="https://img.shields.io/badge/LinkedIn-Yagna%20Daryani-0A66C2?style=for-the-badge" alt="Connect with Yagna Daryani on LinkedIn" /></a>
+  &nbsp;
+  <a href="https://github.com/yagnadaryani"><img src="https://img.shields.io/badge/GitHub-yagnadaryani-0F172A?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="Explore Yagna Daryani's GitHub profile" /></a>
+</p>
+
+<p align="center"><sub>AI &amp; data science · Web experiences · Project collaboration</sub></p>
 
 ---
 
